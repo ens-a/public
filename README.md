@@ -1,4 +1,4 @@
-Описание проекта:
+Описание проекта Project:
 
 Отработка навыков работы с API и предобработка данных pandas.
 
@@ -8,9 +8,11 @@
 Итоговая таблица: https://docs.google.com/spreadsheets/d/1zGw_kyJ-UaajLnaZ0QsN712_ex9tvq2wzSrMhICrnH4/edit?usp=sharing
 
 
+Описание проекта Google_sheets:
+
 Вывести отчёт по заявкам за произвольный период в днях (от 1 дня и более)
 
-Данные нужно забрать с помощью Google Sheets API из документа [https://docs.google.com/spreadsheets/d/1Ycg7zTxds9DZnDvTrFcyNNKuTUxg6Yy6WF0a8Wc02WQ]
+Данные нужно забрать с помощью Google Sheets API из документа https://docs.google.com/spreadsheets/d/10yF9klJ-3ODLO1BbXUaT2E0ZSJMXmjz6TuNJL2vDdTc/edit#gid=963706699
 
 Формат отчёта:
 
@@ -34,4 +36,5 @@
 
 - Данные загружать в него через Google Sheets API
 - Для итогового отчёта использовать pivot table Google Sheets
-- (Бонусное задание, необязательно) вывести итоговый отчёт в виде pivot table DataStudio
+- (Бонусное задание, необязательно) вывести итоговый отчёт в виде pivot table DataStudio https://datastudio.google.com/reporting/fcd664b0-2207-40e1-81f0-7bc9cf2d1cec
+
